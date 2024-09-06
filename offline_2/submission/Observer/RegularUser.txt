@@ -1,0 +1,6 @@
+ The Server State is: Previous State: operational and Current State: partially down
+ Do you want to continue using the limited functionality or pay $20 per hour to enjoy the full functionality taking service from server of DEF (this will copy all your data to the server of DEF)?
+ The Server State is: Previous State: partially down and Current State: operational
+ The total bill since the last state change is $20.
+ The Server State is: Previous State: operational and Current State: fully down
+ Do you want to pay $20 per hour to take service from server of DEF (this will copy all your data to the server of DEF)?
